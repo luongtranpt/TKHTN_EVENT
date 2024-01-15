@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "main.h": "c",
+        "lcd_i2c.h": "c"
+    }
+}
